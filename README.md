@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Learning%20SQL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Databases%20for%20Data%20Science%20%26%20Machine%20Learning&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=%20SQL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Databases%20for%20Data%20Science%20and%20Machine%20Learning&descAlignY=58" />
 
-# 🗄️ Learning SQL
+# 🗄️ SQL
 
 ### *Building Strong Database Foundations for Data Science & Machine Learning*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=Learning+SQL+Step+by+Step;Mastering+CRUD+Operations;Understanding+Relational+Databases;Writing+Efficient+Queries;Preparing+for+Data+Science;Real-World+SQL+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=Learning+SQL+Step+by+Step;Mastering+CRUD+Operations;Understanding+Relational+Databases;Writing+Efficient+Queries;Preparing+for+Data+Science;Real-World+SQL+Projects" />
 
 <br>
 
