@@ -59,19 +59,19 @@ Every script represents practical implementation instead of only theoretical con
 | Constraints | ✅ |
 | SELECT Queries | ✅ |
 | WHERE Clause | ✅ |
-| ORDER BY | ⏳ |
-| LIMIT | ⏳ |
-| Aggregate Functions | ⏳ |
-| GROUP BY | ⏳ |
-| HAVING | ⏳ |
-| Joins | ⏳ |
-| Subqueries | ⏳ |
-| Views | ⏳ |
-| CTE | ⏳ |
-| Window Functions | ⏳ |
-| Indexes | ⏳ |
-| Stored Procedures | ⏳ |
-| Real SQL Projects | ⏳ |
+| ORDER BY | ✅ |
+| LIMIT | ✅ |
+| Aggregate Functions | ✅ |
+| GROUP BY | ✅ |
+| HAVING | ✅ |
+| Joins | ✅ |
+| Subqueries | ✅ |
+| Views | ✅ |
+| CTE | ✅ |
+| Window Functions | ✅ |
+| Indexes | ✅ |
+| Stored Procedures | ✅ |
+| Real SQL Projects | ✅ |
 
 ---
 
