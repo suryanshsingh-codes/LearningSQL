@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Learning+SQL+Step+by+Step;Database+Design+%26+Queries;PostgreSQL+Practice;Projects+%26+Hands-on+Exercises;Building+Strong+Database+Fundamentals"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Learning+SQL+Step+by+Step;PostgreSQL+Practice;Database+Design;Writing+Efficient+Queries;Building+Real+World+Database+Skills"/>
 
 <br><br>
 
@@ -12,7 +12,9 @@
 
 <img src="https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Hands--On-Practice-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Hands--On-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Repository-Beginner--Friendly-orange?style=for-the-badge"/>
 
 </div>
 
@@ -20,27 +22,37 @@
 
 # 🗄️ About This Repository
 
-This repository documents my journey of learning SQL through structured practice, real-world exercises, and mini database projects.
+This repository documents my journey of learning **SQL using PostgreSQL** through structured daily practice, mini projects, database design exercises, and real-world query writing.
 
-It focuses on writing efficient SQL queries, understanding relational databases, designing tables, and solving practical database problems using PostgreSQL.
+Instead of simply following tutorials, every topic is implemented through hands-on SQL scripts that strengthen practical database skills.
 
-The goal of this repository is to build a strong foundation in SQL for Data Analysis, Data Science, and AI Engineering.
+The primary objective of this repository is to build strong SQL fundamentals required for:
+
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 🌐 Backend Development
+- 🗄 Relational Database Design
+
+Every SQL file represents one step toward becoming a better software engineer and AI engineer.
 
 ---
 
 # 💻 Tech Stack
 
-### 🗄️ Database
+## 🗄 Database
 
-<p align="left">
+<p>
 
 <img src="https://skillicons.dev/icons?i=postgres"/>
 
 </p>
 
-### 🛠️ Tools
+---
 
-<p align="left">
+## 🛠 Tools
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=git"/>
 
@@ -54,21 +66,29 @@ The goal of this repository is to build a strong foundation in SQL for Data Anal
 
 # 📚 SQL Concepts Covered
 
-- CRUD Operations
-- SQL Data Types
-- SELECT Statement
-- WHERE Clause
-- ORDER BY
-- GROUP BY
-- HAVING
-- Aggregate Functions
-- Subqueries
-- String Functions
-- ALTER TABLE
-- Database Relationships
-- Mini SQL Projects
+- ✅ CRUD Operations
+- ✅ SQL Data Types
+- ✅ Constraints
+- ✅ Primary Keys
+- ✅ Foreign Keys
+- ✅ One-to-One Relationships
+- ✅ One-to-Many Relationships
+- ✅ Many-to-Many Relationships
+- ✅ SELECT Statements
+- ✅ WHERE Clause
+- ✅ ORDER BY
+- ✅ GROUP BY
+- ✅ HAVING Clause
+- ✅ Aggregate Functions
+- ✅ CASE Expressions
+- ✅ String Functions
+- ✅ ALTER TABLE
+- ✅ Views
+- ✅ Stored Procedures (PL/pgSQL)
 
 ---
+
+
 
 # 🚀 Featured Projects
 
@@ -84,11 +104,27 @@ The goal of this repository is to build a strong foundation in SQL for Data Anal
 
 <p align="center">
 
-A mini SQL project demonstrating database creation, table design, CRUD operations, and data management.
+A beginner-friendly SQL project demonstrating table creation, CRUD operations, constraints, and data management using PostgreSQL.
 
 <br><br>
 
-<b>Tech Stack</b><br>
+<b>Highlights</b>
+
+<br>
+
+✔ Table Design
+
+✔ CRUD Operations
+
+✔ Constraints
+
+✔ Data Management
+
+<br><br>
+
+<b>Tech Stack</b>
+
+<br>
 
 PostgreSQL • SQL
 
@@ -106,23 +142,39 @@ PostgreSQL • SQL
 
 <td width="50%" valign="top">
 
-<h3 align="center">📊 SQL Queries Practice</h3>
+<h3 align="center">📦 Product & Order Database</h3>
 
 <p align="center">
 
-Practice queries covering filtering, grouping, sorting, aggregate functions, and subqueries.
+Database schema demonstrating real-world Product & Order relationships using foreign keys and relational modeling.
 
 <br><br>
 
-<b>Topics</b><br>
+<b>Highlights</b>
 
-SELECT • GROUP BY • HAVING • ORDER BY
+<br>
+
+✔ Foreign Keys
+
+✔ Schema Design
+
+✔ Relational Database
+
+✔ Data Integrity
 
 <br><br>
 
-<a href="https://github.com/suryanshsingh-codes/LearningSQL/blob/main/pgAdmin5.sql">
+<b>Tech Stack</b>
 
-<img src="https://img.shields.io/badge/View_SQL-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<br>
+
+PostgreSQL • SQL
+
+<br><br>
+
+<a href="https://github.com/suryanshsingh-codes/LearningSQL/blob/main/pgAdmin12.sql">
+
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -136,23 +188,31 @@ SELECT • GROUP BY • HAVING • ORDER BY
 
 <td width="50%" valign="top">
 
-<h3 align="center">🧩 SQL Practice Collection</h3>
+<h3 align="center">🔗 Database Relationships</h3>
 
 <p align="center">
 
-A structured collection of SQL scripts covering concepts from beginner to intermediate level through daily practice.
+Hands-on implementation of One-to-One, One-to-Many and Many-to-Many database relationships.
 
 <br><br>
 
-<b>Topics</b><br>
+<b>Topics Covered</b>
 
-CRUD • Data Types • Functions • Relationships
+<br>
+
+✔ One-to-One
+
+✔ One-to-Many
+
+✔ Many-to-Many
+
+✔ Junction Tables
 
 <br><br>
 
-<a href="https://github.com/suryanshsingh-codes/LearningSQL">
+<a href="https://github.com/suryanshsingh-codes/LearningSQL/blob/main/pgAdmin13.sql">
 
-<img src="https://img.shields.io/badge/Explore_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_SQL-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -162,23 +222,31 @@ CRUD • Data Types • Functions • Relationships
 
 <td width="50%" valign="top">
 
-<h3 align="center">🔗 Database Relationships</h3>
+<h3 align="center">⚙ Views & Stored Procedures</h3>
 
 <p align="center">
 
-Implementation of relational database concepts through one-to-one mapping and table relationships.
+Advanced SQL concepts including SQL Views and PL/pgSQL Stored Procedures for reusable database logic.
 
 <br><br>
 
-<b>Tech Stack</b><br>
+<b>Topics Covered</b>
 
-PostgreSQL
+<br>
+
+✔ SQL Views
+
+✔ Stored Procedures
+
+✔ PL/pgSQL
+
+✔ Reusable Queries
 
 <br><br>
 
-<a href="https://github.com/suryanshsingh-codes/LearningSQL/blob/main/pgAdmin10.sql">
+<a href="https://github.com/suryanshsingh-codes/LearningSQL/blob/main/pgAdmin14.sql">
 
-<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_SQL-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -194,24 +262,48 @@ PostgreSQL
 
 ---
 
+
 # ⚙️ Getting Started
 
+### 1️⃣ Clone the Repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/suryanshsingh-codes/LearningSQL.git
-
-# Open any SQL script
-
-# Execute using PostgreSQL / pgAdmin
 ```
+
+### 2️⃣ Open PostgreSQL / pgAdmin
+
+Open any `.sql` file from the repository.
+
+### 3️⃣ Execute SQL Scripts
+
+Run the scripts in order for the best learning experience:
+
+```text
+pgAdmin1.sql
+      ↓
+pgAdmin2.sql
+      ↓
+pgAdmin3.sql
+      ↓
+...
+      ↓
+pgAdmin14.sql
+```
+
+Each file builds on concepts learned in the previous one.
 
 ---
 
-<div align="center">
 
-## ⭐ Thank you for visiting this repository!
+## ⭐ Thank You for Visiting!
 
-**Learn • Query • Build • Improve**
+
+<br>
+
+**Learn • Practice • Build • Improve • Repeat 🚀**
+
+<br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 
